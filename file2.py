@@ -1,5 +1,7 @@
-import numpy as no 
+import numpy as np 
 print(np.__version__)
+
+
 
 
 
